@@ -1,4 +1,4 @@
-package com.posh.Ideas;
+//package com.posh.Ideas;
 
 import java.util.Scanner;
 
